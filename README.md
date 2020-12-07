@@ -1,6 +1,6 @@
 # React Admin project
 
-This project is an admin page 
+This project is an admin page.  This is just a prototype and not connected to a live database. 
 
 
 # Getting Started with Create React App
